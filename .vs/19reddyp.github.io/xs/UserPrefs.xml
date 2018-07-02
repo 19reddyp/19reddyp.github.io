@@ -1,4 +1,27 @@
 ﻿<Properties StartupConfiguration="{CB8962F2-184B-457E-9DC8-A4842BDDA482}|Default">
-  <MonoDevelop.Ide.ItemProperties.19reddyp.github.io FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="19reddyp.github.io/MyPortfolio/SourceControl.html">
+    <Files>
+      <File FileName="19reddyp.github.io/MyPortfolio/SourceControl.html" Line="12" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="19reddyp.github.io" expanded="True">
+            <Node name="19reddyp.github.io" expanded="True">
+              <Node name="MyPortfolio" expanded="True">
+                <Node name="SourceControl.html" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.19reddyp.github.io PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
